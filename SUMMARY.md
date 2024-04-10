@@ -12,7 +12,7 @@
 * [Score](technology-description/score.md)
 * [Token swaps](technology-description/token-swaps.md)
 
-## ⚙ Tools for dApps
+## ⚙️ Tools for dApps
 
 * [Instant wallet](tools-for-dapps/instant-wallet.md)
 * [Push notifications](tools-for-dapps/push-notifications.md)
@@ -23,7 +23,7 @@
 
 * [🚀 First step](app/first-step.md)
 * [💻 Login](app/login.md)
-* [☁ RPC NODE](app/rpc-node.md)
+* [☁️ RPC NODE](app/rpc-node.md)
 * [⛽ Gas-free transactions](app/gas-free-transactions.md)
 
 ## partners

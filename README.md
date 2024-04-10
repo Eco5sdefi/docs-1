@@ -35,13 +35,6 @@ More about astostaking
 
 With them, the owner has full access to the allocation of staking. The calls duplicate the management methods "astro-stakers.poolv1.near". `(stake, unstake, deposit, withdraw)`
 
-**And public methods for controlling steaking**
-
-* `public_force_unstake(&mut self)`
-* `public_force_withdraw(&self)`
-
-With the help of the community can hijack the control. If the security on the storage balance drops below 5% you can call methods `public_force_unstake`, `public_force_withdraw`. This will lead to the withdrawal of funds from "astro-stakers.poolv1.near" and freeze the staking control for 6 epochs. Also, the first to find the problem will be paid a bonus of 1 hNEAR.
-
 ### Staking income
 
 #### Owner
