@@ -1,5 +1,5 @@
 ---
-description: Disassembling NEAR storage at HERE Wallet
+description: Disassembling NEAR storage at ALISA2K Wallet
 cover: .gitbook/assets/tg_image_3445600662.jpeg
 coverY: 25.559105431309906
 ---
