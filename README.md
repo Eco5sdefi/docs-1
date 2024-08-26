@@ -6,7 +6,7 @@ coverY: 25.559105431309906
 
 # Storage
 
-{% embed url="https://my.herewallet.app/stake" %}
+{% embed url="https://my.alisa2k.com/stake" %}
 Try in web&#x20;
 {% endembed %}
 
